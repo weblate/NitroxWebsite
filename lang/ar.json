@@ -8,19 +8,90 @@
             },
             "gameplay": {
                 "headline": "طريقة اللعب",
-                "title": "طريقة لعبك"
+                "title": "طريقة لعبك",
+                "description": "العب Subnautica، من تجربة البقاء مع أصدقائك إلى جلسات البناء الإبداعي."
             },
             "stores": {
                 "description": "متوافق مع متاجركم المفضلة. دعم أصلي للعب الجماعي عبر المنصات مدمج في التعديل يتيح اللعب الجماعي بسلاسة.",
                 "title": "عامل عبر المنصات",
                 "tooltip": "غير متوفر حالياً",
                 "headline": "المتاجر المدعومة حالياً"
+            },
+            "code": {
+                "headline": "قاعدة الشيفرة",
+                "title": "مفتوح المصدر",
+                "description": "دعم وتحديثات منتظمة من المساهمين الكرماء. ساهم وامنح التعديل تحسينات."
             }
         },
         "meta": {
             "title": "Nitrox للعبة Subnautica - تعديل لإضافة طور اللعب الجماعي إلى Subnautica",
             "description": "Nitrox هو تعديل مجاني لإضافة طور اللعب الجماعي للعبة Subnautica والذي تم تطويره بواسطة مجتمع اللاعبين والمطورين."
         },
-        "hero_cta": "تحميل مجاني"
+        "hero_cta": "تحميل مجاني",
+        "hero_over": "<span>Subnautica</span> <span>Nitrox</span>",
+        "hero_slogan": "<span>تعديلك</span> <span>للعب الجماعي</span> <span>لـ</span> <span>Subnautica.</span>",
+        "explore": "اختبر Subnautica <span class=\"opacity-5\">كما لو كانت لعبة جديدة تمامًا. تعاون مع الآخرين. استكشف أعماقًا جديدة. ابنِ قواعد ملحمية.</span>"
+    },
+    "footer-extended": {
+        "users": "مستخدمين فريدين",
+        "downloads": "تنزيلات",
+        "nexus": "مشاهدات Nexus",
+        "discord": "أعضاء Discord",
+        "community": {
+            "discord_join": "اضغط للانضمام على Discord",
+            "twitter_description": "تابعنا على تويتر لتكون دائمًا على اطلاع بآخر المعلومات والرؤى والمزيد من الحساب الرسمي لـ Nitrox على تويتر.",
+            "twitter_join": "اضغط لزيارة @modnitrox",
+            "bluesky": "تابعنا على Bluesky",
+            "bluesky_join": "اضغط لزيارة @nitroxmod",
+            "twitter": "تابعنا على تويتر",
+            "discord_description": "تحدث مع أكثر من 27 ألف عضو حول Subnautica Multiplayer، وابحث عن لاعبين آخرين للعب معهم واحصل على الدعم.",
+            "bluesky_description": "تابعنا على Bluesky لتبقى دائمًا على اطلاع بأحدث المعلومات والرؤى والمزيد من خلال الحساب الرسمي لـ Nitrox على Bluesky."
+        },
+        "featured": "مُميز على",
+        "footnote_2": "أقصى عدد للاعبين في الServer هو 100، والعدد الموصى به هو 5 لاعبين.",
+        "community_description": "تواصل ودردش مع لاعبي Nitrox الآخرين",
+        "footnote_1": "متجر Windows يتطلب إعدادات إضافية. يمكنك العثور على الخطوات والدعم للإعداد في خادم Discord الخاص بـ Nitrox.",
+        "footnote_3": "الServers العامة لا تستضيفها Nitrox ولا يتم ضمان وقت تشغيل بنسبة 100%. الServers التابعة لجهات خارجية لا يتم مراقبتها من قبل فريق Nitrox."
+    },
+    "footer": {
+        "mod": "تعديل",
+        "connect": "اتصل",
+        "learnmore": "تعلم المزيد",
+        "nav": {
+            "download": "تحميل Nitrox",
+            "changelog": "سجل التغييرات",
+            "contribute": "ساهم",
+            "community": "المجتمع",
+            "devblog": "مدونة المطورين",
+            "about": "حول المزيد",
+            "team": "الفريق",
+            "resources": "الموارد",
+            "server_join": "انضم إلى الServer",
+            "guides": "أدلة Nitrox",
+            "install": "دليل التثبيت",
+            "server_setup": "إعداد الServer"
+        },
+        "getstarted": "ابدأ الآن"
+    },
+    "navigation": {
+        "home": "الرئيسية",
+        "guides": "الأدلة",
+        "about": "حول المزيد",
+        "community": "المجتمع",
+        "blog": "مدونة",
+        "motd": "أحدث منشور في مدونة المطورين.",
+        "read_more": "اقرأ المزيد"
+    },
+    "lang-select": {
+        "title": "اللغة",
+        "description": "اختر لغتك."
+    },
+    "wiki": {
+        "title": "مرحبًا بك في دعم Nitrox",
+        "meta": {
+            "title": "الأدلة والويكي · تعديل Subnautica Multiplayer",
+            "description": "Nitrox هو تعديل مجاني للعب الجماعي للعبة Subnautica تم تطويره بواسطة المجتمع."
+        },
+        "subtitle": "تصفح الأدلة المفيدة واطلع على الخطوات الأولى لبدء استخدام Nitrox."
     }
 }
